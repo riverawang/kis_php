@@ -1,8 +1,8 @@
 {
-	"name": "codeigniter4/appstarter",
+	"name": "kis_php",
 	"type": "project",
-	"description": "CodeIgniter4 starter app",
-	"homepage": "https://codeigniter.com",
+	"description": "KIS in PHP",
+	"homepage": "https://github.com/riverawang/kis_php",
 	"license": "MIT",
 	"require": {
 		"php": ">=7.2",
